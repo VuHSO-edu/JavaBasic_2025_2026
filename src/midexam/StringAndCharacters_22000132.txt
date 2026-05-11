@@ -1,0 +1,8 @@
+C:\Users\Admin\.jdks\azul-22.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\lib\idea_rt.jar=56112" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\CODE\SCHOOL\JavaBasic\out\production\JavaBasic midexam.StringAndCharacters
+Input text: hOC lAP tRInH jAVa
+Input text: hOC lAP tRInH jAVa
+Cac chu cai va chu so trong inputText: A: 3, C: 1, H: 2, I: 1, J: 1, L: 1, N: 1, O: 1, P: 1, R: 1, T: 1, V: 1
+Proper Case of inputText string: Hoc Lap Trinh Java
+Original Message hOC lAP tRInH jAVa, key = 3, Caesar Code: kRF oDS wULqK mDYd
+
+Process finished with exit code 0

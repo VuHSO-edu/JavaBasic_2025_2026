@@ -1,0 +1,7 @@
+C:\Users\Admin\.jdks\azul-22.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.5\lib\idea_rt.jar=55928" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\CODE\SCHOOL\JavaBasic\out\production\JavaBasic midexam.ArrayAndSortingAlgorithm
+Data size: 15
+Data:54 31 36 22 39 62 36 1 97 61 29 59 11 99 97
+Decreasing data using SelectionSort: 99 97 97 62 61 59 54 39 36 36 31 29 22 11 1
+Number 26 does not exist in the data data (at position -1).
+
+Process finished with exit code 0
